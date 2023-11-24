@@ -1,0 +1,3 @@
+tiktoken
+evadb
+openai==0.28

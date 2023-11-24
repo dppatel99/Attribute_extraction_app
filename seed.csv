@@ -1,0 +1,6 @@
+id,text,violence,directed_vs_generalized,gender
+0,You should know women's sports are a joke,not_violent,generalized,TRUE
+1,You look like Sloth with deeper Down’s syndrome,not_violent,directed,FALSE
+2,You look like Russian and speak like Indian. Both are disgusting go kill yourself,violent,directed,FALSE
+3,"Women deserve to be abused, I guess.",violent,generalized,TRUE
+4,Women are made for making babies and cooking dinner and nothing else!!!,not_violent,generalized,TRUE
